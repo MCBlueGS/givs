@@ -1,9 +1,9 @@
 *{
 	text-align: center;
-
+	background-attachment: fixed;
 	color: white;
 }
 body{
-	background-image: url(tt.png);
+	background-image: url("https://uploadstatic.mihoyo.com/puzzle/upload/puzzle/2022/11/30/546aa4fc739fc12535d19e47dc89c9ee_3039402973052014666.png?x-oss-process=image/format,webp/quality,Q_90");
 	width: 100%;
 }
